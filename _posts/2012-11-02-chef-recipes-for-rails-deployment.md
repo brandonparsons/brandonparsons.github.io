@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Chef Recipe Details: Bootstrap your Vagrant Machine"
 shortname: "Chef Recipe Details for Rails Deployment"
 date: 2012-11-02 09:00
