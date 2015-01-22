@@ -1,7 +1,6 @@
 ---
-layout: default
 title : Privacy Policy
-description:
+description: Privacy Policy for blog.brandonparsons.me
 ---
 
 I am committed to respecting the privacy of you - my visitor.
