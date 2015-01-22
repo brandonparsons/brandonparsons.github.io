@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Careful... Nokogiri escapes HTML!"
 tags:
   - web development 
