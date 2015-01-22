@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Installing gems in a new Chef system Ruby during the Chef Run
 shortname: Installing gems in a new Chef System Ruby
 description: "If you don't correctly load the Ruby binary during installation of a gem, Chef will install to the incorrect Ruby, and your recipes could fail."
