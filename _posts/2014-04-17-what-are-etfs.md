@@ -1,7 +1,6 @@
 ---
 layout: post
 description: A brief primer on ETFs.
-category: finance
 title: What are ETFs?
 tags: 
   - finance
