@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Using CoffeeScript with Google Apps
 tags:
   - javascript
