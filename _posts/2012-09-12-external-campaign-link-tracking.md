@@ -1,5 +1,4 @@
 ---
-layout: post
 title: External Campaign Link Tracking via UTM Parameters
 tags:
   - tools
