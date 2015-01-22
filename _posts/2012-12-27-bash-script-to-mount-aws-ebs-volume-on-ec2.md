@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bash script to mount AWS EBS Volume on EC2
 tags:
   - web development
