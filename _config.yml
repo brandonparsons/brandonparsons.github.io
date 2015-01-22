@@ -3,29 +3,32 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+title: Brandon Parsons
+description: My Personal Blog
 
-email: a-mail@mail.mail
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+permalink: :categories/:year-:month-:title.html
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+email: brandon.blog@brandonparsons.33mail.com
+logo: "/assets/images/logo.png"
+cover: "/assets/images/background_image.jpg"
+
+name: 'Brandon Parsons'
+author: 'Brandon Parsons'
 author_image: "/assets/images/author.jpg"
+twitter: bkparso
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://blog.brandonparsons.me" # the base hostname & protocol for your site
 baseurl: ""
 
-# social icons and sharing options
+google_analytics:
+  tracking_id: UA-34795638-1
+  domain: blog.brandonparsons.me
+
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon: twitter
+    url: https://twitter.com/bkparso
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -39,7 +42,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/brandonparsons
     desc:	Fork me on github
     share_url:
     share_title:
