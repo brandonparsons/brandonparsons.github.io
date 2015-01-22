@@ -4,6 +4,7 @@ description: "Tags are normally implemented in a Jekyll site using Ruby plugins.
 tags: 
   - tools
   - web development
+  - featured
 ---
 
 Most dynamic content management systems (e.g. [WordPress](http://wordpress.com)  allows you to easily build tag and category pages that assist in navigation of your site, and add some Google juice.
