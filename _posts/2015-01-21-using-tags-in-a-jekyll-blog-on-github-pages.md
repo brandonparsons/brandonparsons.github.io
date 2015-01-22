@@ -1,5 +1,4 @@
 ---
-layout: post
 description: "Tags are normally implemented in a Jekyll site using Ruby plugins. These don't work on Github pages. This implementation will work without plugins."
 tags: 
   - tools
