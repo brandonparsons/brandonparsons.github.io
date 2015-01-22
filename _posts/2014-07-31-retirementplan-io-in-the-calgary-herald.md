@@ -1,7 +1,6 @@
 ---
 layout: post
 description: RetirementPlan.io was featured in the Calgary Herald
-category: finance
 title: RetirementPlan.io in the Calgary Herald!
 tags: 
   - finance
