@@ -1,9 +1,7 @@
 ---
-layout: page
 title: About Me
 description: All about Brandon Parsons.
 permalink: /about/
-sitemap: true
 ---
 
 Hi!  This is the personal blog of Brandon Parsons - thanks for stopping by.  I am a [Professional Engineer][prof_eng] based out of Calgary, Canada who has a passion for solving tough problems in engineering, finance and programming.  
