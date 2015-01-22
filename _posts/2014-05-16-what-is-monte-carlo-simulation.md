@@ -1,7 +1,6 @@
 ---
 layout: post
 description: A brief primer on Monte Carlo Simulation
-category: finance
 title: What is Monte Carlo Simulation?
 tags: 
   - finance
