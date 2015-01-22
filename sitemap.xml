@@ -10,7 +10,7 @@ sitemap:
 
   {% for post in site.posts %}
     <url>
-      <loc>{{ site.production_url }}{{ post.url }}</loc>
+      <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       {% else %}
@@ -24,7 +24,7 @@ sitemap:
   {% for page in site.pages %}
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
-        <loc>{{ site.production_url }}{{ page.url }}</loc>
+        <loc>{{ site.url }}{{ page.url }}</loc>
         {% if page.sitemap.lastmod == null %}
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
         {% else %}
