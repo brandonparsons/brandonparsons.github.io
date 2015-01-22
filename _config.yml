@@ -3,7 +3,7 @@ highlighter: pygments
 
 title: Brandon Parsons
 description: My Personal Blog
-permalink: :categories/:year-:title
+permalink: :year-:title
 paginate: 5
 url: "https://blog.brandonparsons.me"
 baseurl: ""
