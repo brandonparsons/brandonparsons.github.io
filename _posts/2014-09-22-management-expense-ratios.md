@@ -1,5 +1,4 @@
 ---
-layout: post
 description: A brief primer on management expense ratios as they relate to ETFs.
 tags: 
   - finance
