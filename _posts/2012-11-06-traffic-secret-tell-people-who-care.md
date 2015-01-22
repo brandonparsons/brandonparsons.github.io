@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Don't just write and expect people to show up - tell people who care
 shortname: Traffic Secret - Tell People who Care
 tags: []
