@@ -1,11 +1,9 @@
 ---
 layout: post
-published: false
 description: "Tags are normally implemented in a Jekyll site using Ruby plugins. These don't work on Github pages. This implementation will work without plugins."
 tags: 
   - tools
   - web development
-title: Using Tags in a Jekyll Blog on Github Pages
 ---
 
 Most dynamic content management systems (e.g. [WordPress](http://wordpress.com)  allows you to easily build tag and category pages that assist in navigation of your site, and add some Google juice.
@@ -14,7 +12,7 @@ Unfortunately this isn't so easy if you want to host a static site on [Github Pa
 
 However, lucky for us, it is possible to hack together a bit of a solution using straight Liquid tags. You can get a whole tags page going that links internally, you just can't generate individual tag pages for each tag.  Can't have it all I suppose.
 
-```
+{% highlight html %}{% raw %}
 ---
 layout: page
 title: Tags
@@ -62,6 +60,6 @@ title: Tags
     {% assign group = nil %}
   </ul>
 {% endfor %}
-```
+{% endraw %}{% endhighlight %}
 
-There is a live example up on my site at the [tag page](http://brandonparsons.me/tags/).
+There is a live example up on my site at the [tag page](/tags/).
