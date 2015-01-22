@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ATOM Validation - Errors in Date/Time via Ruby
 shortname: "ATOM Validations Errors in Date/Time"
 tags:
