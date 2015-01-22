@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An automated Ruby/Rake task for pinging search engines with your sitemap
 shortname: "Ruby/Rake task for pinging search engines"
 tags:
