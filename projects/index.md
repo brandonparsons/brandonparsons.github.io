@@ -1,7 +1,6 @@
 ---
-layout: page
 title : Projects
-sitemap: true
+description: A brief overview of some of my personal projects.
 ---
 
 For various reasons, I'm leaving all details about my engineering "projects" off of this website.  *(Can't see why it would be particularly interesting for anyone to read in any case!)*
