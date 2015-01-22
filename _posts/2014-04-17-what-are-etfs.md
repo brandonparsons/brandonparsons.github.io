@@ -1,5 +1,4 @@
 ---
-layout: post
 description: A brief primer on ETFs.
 title: What are ETFs?
 tags: 
