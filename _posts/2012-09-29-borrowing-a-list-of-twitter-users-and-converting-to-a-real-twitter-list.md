@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Borrowing a List of Twitter Users and Converting to a Real Twitter List!
 shortname: Programmatically Creating a Twitter List
 tags:
