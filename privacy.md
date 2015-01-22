@@ -1,6 +1,7 @@
 ---
 title : Privacy Policy
 description: Privacy Policy for blog.brandonparsons.me
+permalink: /privacy/
 ---
 
 I am committed to respecting the privacy of you - my visitor.
