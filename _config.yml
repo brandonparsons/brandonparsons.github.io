@@ -8,6 +8,14 @@ paginate: 5
 url: "https://blog.brandonparsons.me"
 baseurl: ""
 
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - THEME-LICENSE
+
 defaults:
   -
     scope:
