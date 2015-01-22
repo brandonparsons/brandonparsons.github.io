@@ -14,7 +14,7 @@ defaults:
       path: ""
     values:
       layout: "page"
-      sitemap: true
+      sitemap: false
   -
     scope:
       path: ""
