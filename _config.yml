@@ -6,7 +6,7 @@ highlighter: pygments
 title: Brandon Parsons
 description: My Personal Blog
 
-permalink: :categories/:year-:month-:title.html
+permalink: :categories/:year-:title.html
 
 email: brandon.blog@brandonparsons.33mail.com
 logo: "/assets/images/logo.png"
