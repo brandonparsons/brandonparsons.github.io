@@ -6,6 +6,7 @@ title: What is Monte Carlo Simulation?
 tags: 
   - finance
   - statistics
+  - featured
 ---
 
 What do nuclear chain reactions, infrastructure projects, oil asset valuations, and retirement simulations have in common? You can probably guess - **Monte Carlo simulations**.
