@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My SublimeText2 Configuration
 tags:
   - tools
