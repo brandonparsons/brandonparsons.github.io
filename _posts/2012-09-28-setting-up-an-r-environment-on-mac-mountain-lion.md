@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Setting up an R Environment On Mac Mountain Lion
 shortname: An R Environment on Mac Mountain Lion
 tags:
