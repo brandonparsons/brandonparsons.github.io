@@ -1,7 +1,6 @@
 ---
 layout: post
 description: How portfolio rebalancing works at RetirementPlan.io.
-category: finance
 title: Portfolio Rebalancing at RetirementPlan.io
 tags: 
   - finance
