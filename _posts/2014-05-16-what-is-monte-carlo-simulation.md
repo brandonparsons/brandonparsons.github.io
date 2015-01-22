@@ -1,5 +1,4 @@
 ---
-layout: post
 description: A brief primer on Monte Carlo Simulation
 title: What is Monte Carlo Simulation?
 tags: 
