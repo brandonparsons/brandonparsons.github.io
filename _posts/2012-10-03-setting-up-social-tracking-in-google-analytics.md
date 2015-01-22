@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Setting up social tracking in Google Analytics
 tags:
   - tools
