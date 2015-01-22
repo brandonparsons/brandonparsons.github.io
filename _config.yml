@@ -1,30 +1,38 @@
-# Build settings
 markdown: redcarpet
 highlighter: pygments
 
-# Site settings
 title: Brandon Parsons
 description: My Personal Blog
-
 permalink: :categories/:year-:title
+paginate:	5
+url: "https://blog.brandonparsons.me"
+baseurl: ""
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 email: brandon.blog@brandonparsons.33mail.com
 logo: "/assets/images/logo.png"
 cover: "/assets/images/background_image.jpg"
 
+google_analytics:
+  tracking_id: UA-34795638-1
+  domain: blog.brandonparsons.me
+
 name: 'Brandon Parsons'
 author: 'Brandon Parsons'
 author_image: "/assets/images/author.jpg"
 twitter: bkparso
-
-paginate:	5
-
-url: "https://blog.brandonparsons.me" # the base hostname & protocol for your site
-baseurl: ""
-
-google_analytics:
-  tracking_id: UA-34795638-1
-  domain: blog.brandonparsons.me
 
 social:
   - icon: twitter
@@ -34,19 +42,19 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
   - icon:	github
     url:	https://github.com/brandonparsons
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
