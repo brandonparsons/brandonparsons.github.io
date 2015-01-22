@@ -1,7 +1,6 @@
 ---
 layout: post
 description: A brief primer on stocks vs. bonds as asset classes.
-category: finance
 title: Asset Classes - Stocks vs. Bonds
 tags: 
   - finance
