@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Ultimate in Dev/Prod Parity: Standing up an Ubuntu Server with Chef and Vagrant"
 shortname: "Dev/Prod Parity - Server with Chef and Vagrant"
 tags:
