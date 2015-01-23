@@ -1,5 +1,4 @@
 ---
-published: true
 title: Shutting Down RetirementPlan.io
 description: RetirementPlan.io has been officially shut down.
 tags:
