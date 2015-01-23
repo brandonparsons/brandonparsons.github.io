@@ -1,3 +1,11 @@
+<script>
+  // Force HTTPS page
+  var host = "blog.brandonparsons.me";
+  if ((host == window.location.host) && (window.location.protocol != "https:")) {
+    window.location.protocol = "https";
+  }
+</script>
+
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="{{ "/assets/js/jquery.fitvids-ck.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/index-ck.js" | prepend: site.baseurl  }}"></script>
