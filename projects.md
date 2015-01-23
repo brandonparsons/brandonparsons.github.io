@@ -12,7 +12,7 @@ Only listing some personal projects here.... leaving my day job out of it :)
 - Started ~2011/2012, [shut down][] in 2014. Canadian regulations have not caught up to the United States.
 - Ruby on Rails back-end, Ember.js front-end. Postgres/Redis/Memcache etc.
 
-[shut down]: (/2015-01-23-shutting-down-retirementplan-io/)
+[shut down]: /2015-01-23-shutting-down-retirementplan-io/
 
 ## [CloudFlare Dynamic DNS](https://github.com/brandonparsons/go_cloudflare_dyndns) ##
 
