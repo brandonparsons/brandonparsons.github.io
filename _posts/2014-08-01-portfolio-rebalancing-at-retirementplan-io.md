@@ -5,6 +5,7 @@ tags:
   - finance
   - portfolio
   - financial planning
+  - retirementplan.io
 ---
 
 What is Portfolio rebalancing, why does it matter to you, and how is it handled at RetirementPlan.io?

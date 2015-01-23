@@ -5,6 +5,7 @@ tags:
   - finance
   - stocks
   - bonds
+  - retirementplan.io
 image: /assets/article_images/rpio/newspaper_cover.jpg
 ---
 

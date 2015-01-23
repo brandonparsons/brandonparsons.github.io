@@ -5,6 +5,7 @@ tags:
   - finance
   - statistics
   - featured
+  - retirementplan.io
 ---
 
 What do nuclear chain reactions, infrastructure projects, oil asset valuations, and retirement simulations have in common? You can probably guess - **Monte Carlo simulations**.

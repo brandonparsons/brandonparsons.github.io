@@ -3,6 +3,7 @@ description: RetirementPlan.io was featured in the Calgary Herald
 title: RetirementPlan.io in the Calgary Herald!
 tags: 
   - finance
+  - retirementplan.io
 ---
 
 RetirementPlan.io was recently featured as Calgary Herald's [Startup of the Week](http://blogs.calgaryherald.com/2014/07/21/startup-of-the-week-retirementplan-io/)!

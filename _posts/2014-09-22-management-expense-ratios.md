@@ -3,6 +3,7 @@ description: A brief primer on management expense ratios as they relate to ETFs.
 tags: 
   - finance
   - etfs
+  - retirementplan.io
 image: /assets/article_images/rpio/retirement_plan.jpg
 ---
 
