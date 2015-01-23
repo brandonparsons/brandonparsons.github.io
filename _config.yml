@@ -3,10 +3,11 @@ highlighter: pygments
 
 title: Brandon Parsons
 description: My Personal Blog
-permalink: :year-:title
 paginate: 5
 url: "https://blog.brandonparsons.me"
 baseurl: ""
+# Don't change permalink! You are re-writing URLs from old RP.io site from brandonparsons.me
+permalink: :year-:title
 
 exclude:
   - .gitignore
