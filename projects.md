@@ -25,3 +25,7 @@ Only listing some personal projects here.... leaving my day job out of it :)
 - Details [freely shared][post].
 
 [post]: /2012/external-campaign-link-tracking/
+
+## Something on the way....  ##
+
+Not linking to it yet, but coming soon!
