@@ -5,6 +5,7 @@ tags:
   - finance
   - web development
   - retirementplan.io
+image: /assets/article_images/rpio_screenshots/3_portfolio_selection.png
 ---
 
 All told, I have been working on RetirementPlan.io in some form or another for a few years. Yesterday, I shut down the website.
@@ -66,3 +67,18 @@ The worst part is that I know for a fact there is a non-zero number of "financia
 ---
 
 All told, RetirementPlan.io was not the overwhelming success that I had hoped for (and I'm convinced the potential still exists if regulations change), but I'd say it was a very good learning experience - sharpened my financial skills, taught me about some of the ins-and-outs of incorporating in Canada, and I built a ton of programming/web development knowledge.
+
+---
+
+Some screenshots:
+
+![User Preferences](/assets/article_images/rpio_screenshots/0_user_preferences.png) 
+![User Profile](/assets/article_images/rpio_screenshots/0_user_profile.png)
+![Dashboard](/assets/article_images/rpio_screenshots/1_dashboard.png) 
+![Risk Tolerance Questionnaire](/assets/article_images/rpio_screenshots/2_risk_tolerance_questionnaire.png)
+![Portfolio Selection](/assets/article_images/rpio_screenshots/3_portfolio_selection.png) 
+![Simulation Expenses](/assets/article_images/rpio_screenshots/4_simulation_expenses.png) 
+![Simulation Parameters](/assets/article_images/rpio_screenshots/4_simulation_parameters.png) 
+![Select ETFs](/assets/article_images/rpio_screenshots/5_select_ETFs.png) 
+![Set up a Tracked Portfolio](/assets/article_images/rpio_screenshots/7_set_up_tracked_portfolio.png) 
+![Portfolio Status](/assets/article_images/rpio_screenshots/8_portfolio_status.png) 
