@@ -35,8 +35,7 @@ email: brandon.blog@brandonparsons.33mail.com
 logo: "/assets/images/logo.png"
 cover: "/assets/images/background_image.jpg"
 
-google_analytics:
-  tracking_id: UA-34795638-1
+google_analytics_tracking_id: UA-34795638-1
 
 name: 'Brandon Parsons'
 author: 'Brandon Parsons'
