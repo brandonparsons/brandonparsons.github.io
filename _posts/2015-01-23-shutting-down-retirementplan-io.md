@@ -6,6 +6,7 @@ tags:
   - web development
   - retirementplan.io
 image: /assets/article_images/rpio_screenshots/3_portfolio_selection.png
+permalink: /2015-shutting-down-retirementplan-io
 ---
 
 All told, I have been working on RetirementPlan.io in some form or another for a few years. Yesterday, I shut down the website.
